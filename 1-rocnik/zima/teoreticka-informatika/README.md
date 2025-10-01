@@ -1,0 +1,6 @@
+# Teoretická informatika
+
+### Zapocet
+
+
+### Zkouska

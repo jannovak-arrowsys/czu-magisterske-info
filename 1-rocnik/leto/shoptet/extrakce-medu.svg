@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="100" viewBox="0 0 140 100">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7C948" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#D4831A" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <rect width="140" height="100" rx="6" fill="url(#bg4)"/>
+  
+  <!-- Extractor drum -->
+  <ellipse cx="55" cy="28" rx="28" ry="8" fill="#E8C87A" stroke="#D4831A" stroke-width="1.5"/>
+  <rect x="27" y="28" width="56" height="38" fill="#F7C948" opacity="0.7"/>
+  <rect x="27" y="28" width="56" height="38" fill="none" stroke="#D4831A" stroke-width="1.5"/>
+  <ellipse cx="55" cy="66" rx="28" ry="8" fill="#E8C87A" stroke="#D4831A" stroke-width="1.5"/>
+  <!-- Handle -->
+  <line x1="55" y1="20" x2="55" y2="5" stroke="#B35500" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="55" cy="4" rx="8" ry="3" fill="#B35500"/>
+  <!-- Tap/spout -->
+  <rect x="78" y="58" width="16" height="6" rx="2" fill="#B35500"/>
+  <circle cx="96" cy="61" r="3" fill="#8B4000"/>
+  <!-- Honey drop -->
+  <path d="M94 65 Q91 72 94 78 Q97 84 100 78 Q103 72 100 65 Q97 60 94 65 Z" fill="#F7C948" stroke="#D4831A" stroke-width="1"/>
+  <!-- Fork/uncapping tool -->
+  <rect x="110" y="18" width="4" height="50" rx="2" fill="#8B5E3C"/>
+  <line x1="106" y1="18" x2="106" y2="26" stroke="#8B5E3C" stroke-width="2"/>
+  <line x1="110" y1="18" x2="110" y2="26" stroke="#8B5E3C" stroke-width="2"/>
+  <line x1="114" y1="18" x2="114" y2="26" stroke="#8B5E3C" stroke-width="2"/>
+  <line x1="118" y1="18" x2="118" y2="26" stroke="#8B5E3C" stroke-width="2"/>
+
+  <text x="70" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" font-weight="bold" fill="#D4831A">Extrakce medu</text>
+</svg>
